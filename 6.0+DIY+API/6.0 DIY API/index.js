@@ -46,9 +46,12 @@ app.post("/jokes",(req,res)=>{
 
 //5. PUT a joke
 
+
+
 //6. PATCH a joke
 
 //7. DELETE Specific joke
+app.dele
 
 //8. DELETE All jokes
 
